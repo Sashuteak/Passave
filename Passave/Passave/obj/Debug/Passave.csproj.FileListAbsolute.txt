@@ -1,0 +1,196 @@
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\bin\Debug\Passave.dll
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\bin\Debug\Passave.pdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\bin\Debug\Passave.Passave.apk
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\bin\Debug\Passave.Passave-Signed.apk
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\Passave.dll
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\Passave.pdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\android\bin\Passave.Passave.apk
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\res\layout\additem.xml
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\res\layout\changename.xml
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\res\layout\changepassword.xml
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\res\layout\edititem.xml
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\res\layout\information.xml
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\res\layout\listpage.xml
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\res\layout\listview_row.xml
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\res\layout\main.xml
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\res\layout\registration.xml
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\res\drawable\buttoncreatestyle.xml
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\res\drawable\buttonsigninstyle.xml
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\res\drawable\edit_text_style.xml
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\res\drawable\ic_action_new.png
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\res\drawable\ic_action_search.png
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\res\drawable\ic_help_outline_white_24dp.png
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\res\drawable\ic_settings_white_24dp.png
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\res\drawable\icon.png
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\res\drawable\progressbarstyle.xml
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\res\drawable\xs.png
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\res\menu\actionbar.xml
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\res\values\strings.xml
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\res\values\styles.xml
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\res\values\themes.xml
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\res\anim\slide_right.xml
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\res\anim\slide_up.xml
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\R.cs.flag
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\uploadflags.txt
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\bin\Debug\Passave.dll.mdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\bin\Debug\Java.Interop.dll.mdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\bin\Debug\Mono.Android.dll.mdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\bin\Debug\Mono.Data.Sqlite.dll.mdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\bin\Debug\Mono.Data.Tds.dll.mdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\bin\Debug\mscorlib.dll.mdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\bin\Debug\System.Core.dll.mdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\bin\Debug\System.Data.dll.mdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\bin\Debug\System.dll.mdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\bin\Debug\System.Numerics.dll.mdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\bin\Debug\System.Transactions.dll.mdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\bin\Debug\System.Xml.dll.mdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\android\assets\Mono.Data.Sqlite.dll.mdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\android\assets\Mono.Data.Tds.dll.mdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\android\assets\Passave.dll.mdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\android\assets\System.Data.dll.mdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\android\assets\System.dll.mdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\android\assets\System.Numerics.dll.mdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\android\assets\System.Transactions.dll.mdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\res\drawable\descriptioneditstyle.xml
+C:\Users\sashu\Documents\Visual Studio 2015\Projects\Passave\Passave\obj\Debug\Passave.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\bin\Debug\Passave.dll.config
+C:\Users\sashu\Desktop\Passave\Passave\bin\Debug\Passave.dll
+C:\Users\sashu\Desktop\Passave\Passave\bin\Debug\Passave.pdb
+C:\Users\sashu\Desktop\Passave\Passave\bin\Debug\Passave.Passave.apk
+C:\Users\sashu\Desktop\Passave\Passave\bin\Debug\Passave.Passave-Signed.apk
+C:\Users\sashu\Desktop\Passave\Passave\bin\Debug\Json.NET.Web.dll
+C:\Users\sashu\Desktop\Passave\Passave\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sashu\Desktop\Passave\Passave\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\Passave.csprojResolveAssemblyReference.cache
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\Passave.dll
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\Passave.pdb
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\android\bin\Passave.Passave.apk
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\res\layout\additem.xml
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\res\layout\changename.xml
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\res\layout\changepassword.xml
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\res\layout\edititem.xml
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\res\layout\information.xml
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\res\layout\listpage.xml
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\res\layout\listview_row.xml
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\res\layout\main.xml
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\res\layout\registration.xml
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\res\drawable\buttoncreatestyle.xml
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\res\drawable\buttonsigninstyle.xml
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\res\drawable\edit_text_style.xml
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\res\drawable\ic_action_new.png
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\res\drawable\ic_action_search.png
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\res\drawable\ic_help_outline_white_24dp.png
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\res\drawable\ic_settings_white_24dp.png
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\res\drawable\icon.png
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\res\drawable\progressbarstyle.xml
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\res\drawable\xs.png
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\res\menu\actionbar.xml
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\res\values\strings.xml
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\res\values\styles.xml
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\res\values\themes.xml
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\res\anim\slide_right.xml
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\res\anim\slide_up.xml
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\res\drawable\descriptioneditstyle.xml
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\R.cs.flag
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\uploadflags.txt
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\res\values\theme.xml
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\res\drawable\search.png
+C:\Users\Sashuteak\Desktop\Passave\Passave\bin\Debug\Passave.dll.config
+C:\Users\Sashuteak\Desktop\Passave\Passave\bin\Debug\Passave.dll
+C:\Users\Sashuteak\Desktop\Passave\Passave\bin\Debug\Passave.pdb
+C:\Users\Sashuteak\Desktop\Passave\Passave\bin\Debug\Passave.Passave.apk
+C:\Users\Sashuteak\Desktop\Passave\Passave\bin\Debug\Passave.Passave-Signed.apk
+C:\Users\Sashuteak\Desktop\Passave\Passave\bin\Debug\Json.NET.Web.dll
+C:\Users\Sashuteak\Desktop\Passave\Passave\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sashuteak\Desktop\Passave\Passave\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sashuteak\Desktop\Passave\Passave\obj\Debug\Passave.csprojResolveAssemblyReference.cache
+C:\Users\Sashuteak\Desktop\Passave\Passave\obj\Debug\Passave.dll
+C:\Users\Sashuteak\Desktop\Passave\Passave\obj\Debug\Passave.pdb
+C:\Users\Sashuteak\Desktop\Passave\Passave\obj\Debug\android\bin\Passave.Passave.apk
+C:\Users\Sashuteak\Desktop\Passave\Passave\obj\Debug\res\layout\additem.xml
+C:\Users\Sashuteak\Desktop\Passave\Passave\obj\Debug\res\layout\changename.xml
+C:\Users\Sashuteak\Desktop\Passave\Passave\obj\Debug\res\layout\changepassword.xml
+C:\Users\Sashuteak\Desktop\Passave\Passave\obj\Debug\res\layout\edititem.xml
+C:\Users\Sashuteak\Desktop\Passave\Passave\obj\Debug\res\layout\information.xml
+C:\Users\Sashuteak\Desktop\Passave\Passave\obj\Debug\res\layout\listpage.xml
+C:\Users\Sashuteak\Desktop\Passave\Passave\obj\Debug\res\layout\listview_row.xml
+C:\Users\Sashuteak\Desktop\Passave\Passave\obj\Debug\res\layout\main.xml
+C:\Users\Sashuteak\Desktop\Passave\Passave\obj\Debug\res\layout\registration.xml
+C:\Users\Sashuteak\Desktop\Passave\Passave\obj\Debug\res\drawable\buttoncreatestyle.xml
+C:\Users\Sashuteak\Desktop\Passave\Passave\obj\Debug\res\drawable\buttonsigninstyle.xml
+C:\Users\Sashuteak\Desktop\Passave\Passave\obj\Debug\res\drawable\edit_text_style.xml
+C:\Users\Sashuteak\Desktop\Passave\Passave\obj\Debug\res\drawable\ic_action_new.png
+C:\Users\Sashuteak\Desktop\Passave\Passave\obj\Debug\res\drawable\ic_action_search.png
+C:\Users\Sashuteak\Desktop\Passave\Passave\obj\Debug\res\drawable\ic_help_outline_white_24dp.png
+C:\Users\Sashuteak\Desktop\Passave\Passave\obj\Debug\res\drawable\ic_settings_white_24dp.png
+C:\Users\Sashuteak\Desktop\Passave\Passave\obj\Debug\res\drawable\icon.png
+C:\Users\Sashuteak\Desktop\Passave\Passave\obj\Debug\res\drawable\progressbarstyle.xml
+C:\Users\Sashuteak\Desktop\Passave\Passave\obj\Debug\res\drawable\xs.png
+C:\Users\Sashuteak\Desktop\Passave\Passave\obj\Debug\res\menu\actionbar.xml
+C:\Users\Sashuteak\Desktop\Passave\Passave\obj\Debug\res\values\strings.xml
+C:\Users\Sashuteak\Desktop\Passave\Passave\obj\Debug\res\values\styles.xml
+C:\Users\Sashuteak\Desktop\Passave\Passave\obj\Debug\res\values\themes.xml
+C:\Users\Sashuteak\Desktop\Passave\Passave\obj\Debug\res\anim\slide_right.xml
+C:\Users\Sashuteak\Desktop\Passave\Passave\obj\Debug\res\anim\slide_up.xml
+C:\Users\Sashuteak\Desktop\Passave\Passave\obj\Debug\res\drawable\descriptioneditstyle.xml
+C:\Users\Sashuteak\Desktop\Passave\Passave\obj\Debug\res\values\theme.xml
+C:\Users\Sashuteak\Desktop\Passave\Passave\obj\Debug\res\drawable\search.png
+C:\Users\Sashuteak\Desktop\Passave\Passave\obj\Debug\R.cs.flag
+C:\Users\Sashuteak\Desktop\Passave\Passave\obj\Debug\uploadflags.txt
+C:\Users\Sashuteak\Desktop\Passave\Passave\obj\Debug\Passave.dll.mdb
+C:\Users\Sashuteak\Desktop\Passave\Passave\bin\Debug\Passave.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\bin\Debug\Passave.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\bin\Debug\Java.Interop.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\bin\Debug\Mono.Android.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\bin\Debug\Mono.Data.Sqlite.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\bin\Debug\Mono.Data.Tds.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\bin\Debug\mscorlib.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\bin\Debug\System.Core.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\bin\Debug\System.Data.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\bin\Debug\System.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\bin\Debug\System.Numerics.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\bin\Debug\System.Transactions.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\bin\Debug\System.Xml.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\android\assets\Mono.Data.Sqlite.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\android\assets\Mono.Data.Tds.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\android\assets\Passave.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\android\assets\System.Data.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\android\assets\System.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\android\assets\System.Numerics.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\android\assets\System.Transactions.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\obj\Debug\Passave.dll.mdb
+C:\Users\sashu\Desktop\Passave\Passave\bin\Debug\Passave.dll.mdb

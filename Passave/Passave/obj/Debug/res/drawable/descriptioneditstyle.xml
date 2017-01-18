@@ -1,0 +1,1 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android"><item android:state_focused="true"><shape android:shape="rectangle"><gradient android:startColor="#ADADAD" android:endColor="#ADADAD" /><stroke android:width="3dp" android:color="#FFF873" /><corners android:radius="2dp" /></shape></item></selector>
