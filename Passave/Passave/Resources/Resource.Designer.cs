@@ -128,26 +128,26 @@ namespace Passave
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f09002c
-			public const int About = 2131296300;
+			// aapt resource value: 0x7f09002e
+			public const int About = 2131296302;
 			
 			// aapt resource value: 0x7f090000
 			public const int AddItem = 2131296256;
 			
-			// aapt resource value: 0x7f090029
-			public const int ChangeName = 2131296297;
+			// aapt resource value: 0x7f09002b
+			public const int ChangeName = 2131296299;
 			
-			// aapt resource value: 0x7f09002a
-			public const int ChangePassword = 2131296298;
+			// aapt resource value: 0x7f09002c
+			public const int ChangePassword = 2131296300;
+			
+			// aapt resource value: 0x7f09002f
+			public const int LogOut = 2131296303;
 			
 			// aapt resource value: 0x7f09002d
-			public const int LogOut = 2131296301;
+			public const int Support = 2131296301;
 			
-			// aapt resource value: 0x7f09002b
-			public const int Support = 2131296299;
-			
-			// aapt resource value: 0x7f090027
-			public const int add = 2131296295;
+			// aapt resource value: 0x7f090029
+			public const int add = 2131296297;
 			
 			// aapt resource value: 0x7f090006
 			public const int btnAdd = 2131296262;
@@ -178,6 +178,12 @@ namespace Passave
 			
 			// aapt resource value: 0x7f09001b
 			public const int btnSubmitGo = 2131296283;
+			
+			// aapt resource value: 0x7f090026
+			public const int btnSupBack = 2131296294;
+			
+			// aapt resource value: 0x7f090027
+			public const int btnWrite = 2131296295;
 			
 			// aapt resource value: 0x7f090022
 			public const int btn_SingIn = 2131296290;
@@ -227,11 +233,11 @@ namespace Passave
 			// aapt resource value: 0x7f090024
 			public const int progressBar1 = 2131296292;
 			
-			// aapt resource value: 0x7f090026
-			public const int search = 2131296294;
-			
 			// aapt resource value: 0x7f090028
-			public const int settings = 2131296296;
+			public const int search = 2131296296;
+			
+			// aapt resource value: 0x7f09002a
+			public const int settings = 2131296298;
 			
 			// aapt resource value: 0x7f090018
 			public const int textLogin = 2131296280;

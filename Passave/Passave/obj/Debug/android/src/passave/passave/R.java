@@ -32,13 +32,13 @@ public final class R {
         public static final int xs=0x7f02000b;
     }
     public static final class id {
-        public static final int About=0x7f09002c;
+        public static final int About=0x7f09002e;
         public static final int AddItem=0x7f090000;
-        public static final int ChangeName=0x7f090029;
-        public static final int ChangePassword=0x7f09002a;
-        public static final int LogOut=0x7f09002d;
-        public static final int Support=0x7f09002b;
-        public static final int add=0x7f090027;
+        public static final int ChangeName=0x7f09002b;
+        public static final int ChangePassword=0x7f09002c;
+        public static final int LogOut=0x7f09002f;
+        public static final int Support=0x7f09002d;
+        public static final int add=0x7f090029;
         public static final int btnAdd=0x7f090006;
         public static final int btnBack=0x7f09001a;
         public static final int btnCancelChPass=0x7f09000f;
@@ -49,6 +49,8 @@ public final class R {
         public static final int btnEditCancel=0x7f09000a;
         public static final int btnEditCanceled=0x7f090015;
         public static final int btnSubmitGo=0x7f09001b;
+        public static final int btnSupBack=0x7f090026;
+        public static final int btnWrite=0x7f090027;
         public static final int btn_SingIn=0x7f090022;
         public static final int btn_SingUp=0x7f090023;
         public static final int editConfirmNewPassword=0x7f09000e;
@@ -65,8 +67,8 @@ public final class R {
         public static final int llContainer=0x7f09001c;
         public static final int myListView=0x7f09001d;
         public static final int progressBar1=0x7f090024;
-        public static final int search=0x7f090026;
-        public static final int settings=0x7f090028;
+        public static final int search=0x7f090028;
+        public static final int settings=0x7f09002a;
         public static final int textLogin=0x7f090018;
         public static final int textNoItems=0x7f09001f;
         public static final int textOldName=0x7f090008;
@@ -80,15 +82,17 @@ public final class R {
         public static final int txtUrl=0x7f090002;
     }
     public static final class layout {
-        public static final int additem=0x7f030000;
-        public static final int changename=0x7f030001;
-        public static final int changepassword=0x7f030002;
-        public static final int edititem=0x7f030003;
-        public static final int information=0x7f030004;
-        public static final int listpage=0x7f030005;
-        public static final int listview_row=0x7f030006;
-        public static final int main=0x7f030007;
-        public static final int registration=0x7f030008;
+        public static final int about=0x7f030000;
+        public static final int additem=0x7f030001;
+        public static final int changename=0x7f030002;
+        public static final int changepassword=0x7f030003;
+        public static final int edititem=0x7f030004;
+        public static final int information=0x7f030005;
+        public static final int listpage=0x7f030006;
+        public static final int listview_row=0x7f030007;
+        public static final int main=0x7f030008;
+        public static final int registration=0x7f030009;
+        public static final int support=0x7f03000a;
     }
     public static final class menu {
         public static final int actionbar=0x7f080000;

@@ -38,3 +38,7 @@ Passave.Activitys.InformationFragment, Passave;md5436885819256a775b7dff1b375fe0b
 Passave.Activitys.InformationFragment, Passave, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5436885819256a775b7dff1b375fe0bfb.InformationFragment
 Passave.Activitys.InformationFragment;md5436885819256a775b7dff1b375fe0bfb.InformationFragment
 passave.activitys.InformationFragment;md5436885819256a775b7dff1b375fe0bfb.InformationFragment
+Passave.Activitys.SupportFragment, Passave;md5436885819256a775b7dff1b375fe0bfb.SupportFragment
+Passave.Activitys.SupportFragment, Passave, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5436885819256a775b7dff1b375fe0bfb.SupportFragment
+Passave.Activitys.SupportFragment;md5436885819256a775b7dff1b375fe0bfb.SupportFragment
+passave.activitys.SupportFragment;md5436885819256a775b7dff1b375fe0bfb.SupportFragment

@@ -220,11 +220,9 @@ namespace Passave
                     this.Finish();
                     return true;
                 case Resource.Id.Support:
-                    var email = new Intent(Intent.ActionSend);
-                    email.PutExtra(Intent.ExtraEmail, new string[] { "Passave.App.Help@gmail.com" });
-                    email.PutExtra(Intent.ExtraSubject, "For Support");
-                    email.SetType("message/rfc822");
-                    StartActivity(email);
+                    FragmentTransaction transaction4 = FragmentManager.BeginTransaction();
+                    SupportFragment support = new SupportFragment();
+                    support.Show(transaction4, "support");
                     return true;
                 case Resource.Id.About:
 

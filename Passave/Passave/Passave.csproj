@@ -85,6 +85,7 @@
     <Compile Include="Activitys\ListPageActivity.cs" />
     <Compile Include="Activitys\MainActivity.cs" />
     <Compile Include="Activitys\RegistrationFragment.cs" />
+    <Compile Include="Activitys\SupportFragment.cs" />
     <Compile Include="DataBaseWork\DriverDB.cs" />
     <Compile Include="DataBaseWork\InfoTable.cs" />
     <Compile Include="DataBaseWork\SQLite.cs" />

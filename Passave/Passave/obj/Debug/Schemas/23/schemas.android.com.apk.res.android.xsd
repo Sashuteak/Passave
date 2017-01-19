@@ -2,7 +2,7 @@
 <xs:schema xmlns:android="http://schemas.android.com/apk/res/android" attributeFormDefault="qualified" elementFormDefault="unqualified" targetNamespace="http://schemas.android.com/apk/res/android" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v23</xs:documentation>
-    <xs:documentation>18.01.2017 22:57:54</xs:documentation>
+    <xs:documentation>19.01.2017 16:21:17</xs:documentation>
   </xs:annotation>
   <xs:attribute name="accessibilityLiveRegion">
     <xs:annotation>
@@ -17253,6 +17253,8 @@
             <xs:enumeration value="@id/btnEditCancel" />
             <xs:enumeration value="@id/btnEditCanceled" />
             <xs:enumeration value="@id/btnSubmitGo" />
+            <xs:enumeration value="@id/btnSupBack" />
+            <xs:enumeration value="@id/btnWrite" />
             <xs:enumeration value="@id/ChangeName" />
             <xs:enumeration value="@id/ChangePassword" />
             <xs:enumeration value="@id/editConfirmNewPassword" />
