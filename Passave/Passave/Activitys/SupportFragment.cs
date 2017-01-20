@@ -4,6 +4,8 @@ using Android.OS;
 using Android.Views;
 using Android.Widget;
 
+
+//Check For Git Main Computer!
 namespace Passave.Activitys
 {
     class SupportFragment : DialogFragment, View.IOnClickListener
