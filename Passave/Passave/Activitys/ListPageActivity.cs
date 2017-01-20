@@ -225,7 +225,7 @@ namespace Passave
                     support.Show(transaction4, "support");
                     return true;
                 case Resource.Id.About:
-
+                    StartActivity(typeof(AboutActivity));
                     return true;
                 default:
                     return base.OnOptionsItemSelected(item);
@@ -310,6 +310,7 @@ namespace Passave
                     if(NewPassword == ConfirmNewPassword)
                     {
                         data.UpdateUser(CurrentUser.ID, this.Title, NewPassword);
+                        CurrentUser.Password = NewPassword;
                         Toast.MakeText(this, "Вы Успешно Изменили Свой Пароль!", ToastLength.Long).Show();
                     }
                     else
@@ -345,6 +346,7 @@ namespace Passave
         {
             this.Title = NewName;
             data.UpdateUser(CurrentUser.ID, NewName, CurrentUser.Password);
+            CurrentUser.Name = NewName;
         }
 
 
@@ -391,8 +393,6 @@ namespace Passave
         {
             mIsAnimating = true;
             mSearch.Animate().AlphaBy(1.0f).SetDuration(500).Start();
-            //InputMethodManager inputManager = (InputMethodManager)this.GetSystemService(Context.InputMethodService);
-            //inputManager.ShowSoftInput(mList, ShowFlags.Forced);
             InputMethodManager imm = (InputMethodManager)GetSystemService(Context.InputMethodService);
             imm.ToggleSoftInput(ShowFlags.Implicit, 0);
         }

@@ -22,6 +22,10 @@ Passave.MyListViewAdapter, Passave;md5a17dcc4929913388118a5bce40b9c334.MyListVie
 Passave.MyListViewAdapter, Passave, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a17dcc4929913388118a5bce40b9c334.MyListViewAdapter
 Passave.MyListViewAdapter;md5a17dcc4929913388118a5bce40b9c334.MyListViewAdapter
 passave.MyListViewAdapter;md5a17dcc4929913388118a5bce40b9c334.MyListViewAdapter
+Passave.Activitys.AboutActivity, Passave;md5436885819256a775b7dff1b375fe0bfb.AboutActivity
+Passave.Activitys.AboutActivity, Passave, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5436885819256a775b7dff1b375fe0bfb.AboutActivity
+Passave.Activitys.AboutActivity;md5436885819256a775b7dff1b375fe0bfb.AboutActivity
+passave.activitys.AboutActivity;md5436885819256a775b7dff1b375fe0bfb.AboutActivity
 Passave.Activitys.ChangeNameFragment, Passave;md5436885819256a775b7dff1b375fe0bfb.ChangeNameFragment
 Passave.Activitys.ChangeNameFragment, Passave, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5436885819256a775b7dff1b375fe0bfb.ChangeNameFragment
 Passave.Activitys.ChangeNameFragment;md5436885819256a775b7dff1b375fe0bfb.ChangeNameFragment

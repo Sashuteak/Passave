@@ -27,7 +27,8 @@
         android:hint="Password"
         android:paddingLeft="10dp"
         android:textColor="#000"
-        android:password="true" />
+        android:password="true"
+        android:drawableRight="@android:drawable/ic_lock_lock" />
     <Button
         android:id="@+id/btn_SingIn"
         android:text="Авторизация"

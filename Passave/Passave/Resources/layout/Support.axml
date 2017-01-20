@@ -20,13 +20,15 @@
         android:layout_marginTop="20dp">
         <Button
             android:text="Back"
-            android:layout_width="wrap_content"
+            android:layout_width="110dp"
             android:layout_height="match_parent"
-            android:id="@+id/btnSupBack" />
+            android:id="@+id/btnSupBack"
+            android:drawableLeft="@android:drawable/ic_menu_revert" />
         <Button
             android:text="Write"
-            android:layout_width="wrap_content"
+            android:layout_width="110dp"
             android:layout_height="match_parent"
-            android:id="@+id/btnWrite" />
+            android:id="@+id/btnWrite"
+            android:drawableLeft="@android:drawable/sym_action_email" />
     </LinearLayout>
 </LinearLayout>

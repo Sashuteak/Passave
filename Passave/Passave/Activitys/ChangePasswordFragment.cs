@@ -40,6 +40,10 @@ namespace Passave.Activitys
         }
         private void MConfirm_Click(object sender, EventArgs e)
         {
+            if (mNewPassword.Text == mConfirmNewPasswor.Text)
+            {
+                this.Dismiss();
+            }
             eventConfirm.Invoke(this, mConfirm);
         }
         private void MConfirmNewPasswor_AfterTextChanged(object sender, Android.Text.AfterTextChangedEventArgs e)

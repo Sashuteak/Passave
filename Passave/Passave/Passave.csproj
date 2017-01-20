@@ -77,6 +77,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Activitys\AboutActivity.cs" />
     <Compile Include="Activitys\AddFragment.cs" />
     <Compile Include="Activitys\ChangeNameFragment.cs" />
     <Compile Include="Activitys\ChangePasswordFragment.cs" />
@@ -187,6 +188,9 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="About.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
