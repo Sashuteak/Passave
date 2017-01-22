@@ -16,4 +16,13 @@
         android:layout_marginTop="20dp"
         android:inputType="textMultiLine"
         android:cursorVisible="false" />
+    <Button
+        android:text="Return"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button1"
+        android:layout_gravity="center"
+        android:background="@android:color/holo_purple"
+        android:layout_marginTop="20dp"
+        android:onClick="ReturnClick" />
 </LinearLayout>

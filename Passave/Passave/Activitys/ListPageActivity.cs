@@ -90,12 +90,12 @@ namespace Passave
             mSearch.TextChanged += MSearch_TextChanged;
         }
 
-        protected override void OnRestart()
-        {
-            base.OnRestart();
-            this.FinishAffinity();
-            StartActivity(typeof(MainActivity));
-        }
+        //protected override void OnRestart()
+        //{
+        //    base.OnRestart();
+        //    this.FinishAffinity();
+        //    StartActivity(typeof(MainActivity));
+        //}
 
         //Создание Контекстного Меню Для Каждого Элемента Из Списка
         public override void OnCreateContextMenu(IContextMenu menu, View v, IContextMenuContextMenuInfo menuInfo)

@@ -99,6 +99,7 @@ class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "Passave.dll" comes first in this list. */
 		"Passave.dll",
+		"Mono.Android.Export.dll",
 		"Json.NET.Web.dll",
 		"Newtonsoft.Json.dll",
 		"System.Threading.dll",

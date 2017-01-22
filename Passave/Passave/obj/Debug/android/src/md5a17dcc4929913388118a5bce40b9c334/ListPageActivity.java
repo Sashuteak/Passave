@@ -11,7 +11,6 @@ public class ListPageActivity
 	static {
 		__md_methods = 
 			"n_onCreate:(Landroid/os/Bundle;)V:GetOnCreate_Landroid_os_Bundle_Handler\n" +
-			"n_onRestart:()V:GetOnRestartHandler\n" +
 			"n_onCreateContextMenu:(Landroid/view/ContextMenu;Landroid/view/View;Landroid/view/ContextMenu$ContextMenuInfo;)V:GetOnCreateContextMenu_Landroid_view_ContextMenu_Landroid_view_View_Landroid_view_ContextMenu_ContextMenuInfo_Handler\n" +
 			"n_onContextItemSelected:(Landroid/view/MenuItem;)Z:GetOnContextItemSelected_Landroid_view_MenuItem_Handler\n" +
 			"n_onCreateOptionsMenu:(Landroid/view/Menu;)Z:GetOnCreateOptionsMenu_Landroid_view_Menu_Handler\n" +
@@ -35,14 +34,6 @@ public class ListPageActivity
 	}
 
 	private native void n_onCreate (android.os.Bundle p0);
-
-
-	public void onRestart ()
-	{
-		n_onRestart ();
-	}
-
-	private native void n_onRestart ();
 
 
 	public void onCreateContextMenu (android.view.ContextMenu p0, android.view.View p1, android.view.ContextMenu.ContextMenuInfo p2)
