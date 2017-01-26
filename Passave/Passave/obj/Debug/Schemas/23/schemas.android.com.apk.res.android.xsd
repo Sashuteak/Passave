@@ -2,7 +2,7 @@
 <xs:schema xmlns:android="http://schemas.android.com/apk/res/android" attributeFormDefault="qualified" elementFormDefault="unqualified" targetNamespace="http://schemas.android.com/apk/res/android" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v23</xs:documentation>
-    <xs:documentation>23.01.2017 00:39:52</xs:documentation>
+    <xs:documentation>26.01.2017 16:53:07</xs:documentation>
   </xs:annotation>
   <xs:attribute name="accessibilityLiveRegion">
     <xs:annotation>
@@ -17245,6 +17245,7 @@
             <xs:enumeration value="@id/btn_SingUp" />
             <xs:enumeration value="@id/btnAdd" />
             <xs:enumeration value="@id/btnBack" />
+            <xs:enumeration value="@id/btnCancelAdd" />
             <xs:enumeration value="@id/btnCancelChPass" />
             <xs:enumeration value="@id/btnConfirmChPass" />
             <xs:enumeration value="@id/btnConfirmEdit" />
@@ -17273,7 +17274,6 @@
             <xs:enumeration value="@id/llContainer" />
             <xs:enumeration value="@id/LogOut" />
             <xs:enumeration value="@id/myListView" />
-            <xs:enumeration value="@id/progressBar1" />
             <xs:enumeration value="@id/search" />
             <xs:enumeration value="@id/settings" />
             <xs:enumeration value="@id/Support" />

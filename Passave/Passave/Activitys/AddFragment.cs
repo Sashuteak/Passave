@@ -3,6 +3,7 @@ using Android.App;
 using Android.OS;
 using Android.Views;
 using Android.Widget;
+using Java.Interop;
 
 namespace Passave
 {
@@ -13,6 +14,7 @@ namespace Passave
         private EditText mPassword;
         private EditText mDescription;
         private Button mBtnAdd;
+        private Button mBtnCancel;
         public event EventHandler<Info> mAddEventAgrs;
         string Url;
 
@@ -23,6 +25,7 @@ namespace Passave
         }
         public override View OnCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
         {
+            Dialog.Window.RequestFeature(WindowFeatures.NoTitle);
             base.OnCreateView(inflater, container, savedInstanceState);
             var view = inflater.Inflate(Resource.Layout.AddItem, container, false);
 
@@ -31,19 +34,24 @@ namespace Passave
             mPassword = view.FindViewById<EditText>(Resource.Id.txtPassword);
             mDescription = view.FindViewById<EditText>(Resource.Id.txtDescription);
             mBtnAdd = view.FindViewById<Button>(Resource.Id.btnAdd);
+            mBtnCancel = view.FindViewById<Button>(Resource.Id.btnCancelAdd);
 
-            if(Url != null)
+            if (Url != null)
             {
                 mUrl.Text = Url;
             }
 
             mBtnAdd.Click += MBtnAdd_Click;
+            mBtnCancel.Click += MBtnCancel_Click;
             return view;
         }
-
+        private void MBtnCancel_Click(object sender, EventArgs e)
+        {
+            this.Dismiss();
+        }
         private void MBtnAdd_Click(object sender, EventArgs e)
         {
-            if(mUrl.Text == "")
+            if (mUrl.Text == "")
             {
                 mAddEventAgrs.Invoke(this, new Info(mUrl.Text, mLogin.Text, mPassword.Text, mDescription.Text));
             }
@@ -52,11 +60,6 @@ namespace Passave
                 mAddEventAgrs.Invoke(this, new Info(mUrl.Text, mLogin.Text, mPassword.Text, mDescription.Text));
                 this.Dismiss();
             }
-        }
-        public override void OnActivityCreated(Bundle savedInstanceState)
-        {
-            Dialog.Window.RequestFeature(WindowFeatures.NoTitle);
-            base.OnActivityCreated(savedInstanceState);
         }
     }
 }

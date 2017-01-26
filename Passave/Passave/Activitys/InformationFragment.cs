@@ -36,7 +36,6 @@ namespace Passave.Activitys
             mDescription = view.FindViewById<TextView>(Resource.Id.editDescription);
 
             Dialog.Window.SetTitle("Информация О Сайте");
-
             mUrl.Text = info.Name;
             mLogin.Text = info.Login;
             mPassword.Text = info.Password;

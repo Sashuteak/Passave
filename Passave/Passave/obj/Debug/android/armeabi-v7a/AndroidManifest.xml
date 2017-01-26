@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="Passave.Passave" android:versionCode="131073" android:versionName="1.0" android:installLocation="auto">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="16" />
+  <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+  <uses-permission android:name="com.android.launcher.permission.UNINSTALL_SHORTCUT" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:label="Passave" android:icon="@drawable/xs" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <activity android:name="md5a17dcc4929913388118a5bce40b9c334.ListPageActivity" />
+    <activity android:icon="@drawable/xs" android:label="Passave" android:launchMode="singleTask" android:name="md5a17dcc4929913388118a5bce40b9c334.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+      <intent-filter android:label="Passave">
+        <action android:name="android.intent.action.SEND" />
+        <category android:name="android.intent.category.DEFAULT" />
+        <data android:mimeType="text/plain" />
+      </intent-filter>
+    </activity>
+    <activity android:label="AboutActivity" android:name="md5436885819256a775b7dff1b375fe0bfb.AboutActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="Passave.Passave.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.Passave.Passave" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>

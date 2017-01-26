@@ -319,7 +319,6 @@ D:\Sashuteak\Passave\Passave\Passave\Passave\obj\Debug\android\assets\System.Ser
 D:\Sashuteak\Passave\Passave\Passave\Passave\obj\Debug\android\assets\System.Transactions.dll.mdb
 D:\Sashuteak\Passave\Passave\Passave\Passave\obj\Debug\android\assets\System.Xml.dll.mdb
 D:\Sashuteak\Passave\Passave\Passave\Passave\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
-D:\Sashuteak\Passave\Passave\Passave\Passave\obj\Debug\Passave.dll.mdb
 D:\Xamarin\GitRepository\Passave\Passave\Passave\bin\Debug\Passave.dll.config
 D:\Xamarin\GitRepository\Passave\Passave\Passave\bin\Debug\Passave.dll
 D:\Xamarin\GitRepository\Passave\Passave\Passave\bin\Debug\Passave.pdb
@@ -405,4 +404,7 @@ D:\Xamarin\GitRepository\Passave\Passave\Passave\obj\Debug\android\assets\System
 D:\Xamarin\GitRepository\Passave\Passave\Passave\bin\Debug\Mono.Android.Export.dll.mdb
 D:\Xamarin\GitRepository\Passave\Passave\Passave\obj\Debug\android\assets\Mono.Android.Export.dll.mdb
 D:\Xamarin\GitRepository\Passave\Passave\Passave\obj\Debug\Passave.dll.mdb
-D:\Xamarin\GitRepository\Passave\Passave\Passave\bin\Debug\Passave.dll.mdb
+D:\Sashuteak\Passave\Passave\Passave\Passave\bin\Debug\Mono.Android.Export.dll.mdb
+D:\Sashuteak\Passave\Passave\Passave\Passave\obj\Debug\android\assets\Mono.Android.Export.dll.mdb
+D:\Sashuteak\Passave\Passave\Passave\Passave\obj\Debug\Passave.dll.mdb
+D:\Sashuteak\Passave\Passave\Passave\Passave\bin\Debug\Passave.dll.mdb

@@ -19,10 +19,8 @@ namespace Passave
         private Button mSingIn;
         private EditText mPassword;
         private Button mSingUp;
-        private ProgressBar mProgressBar;
         private DriverDB data;
         string url;
-
         protected override void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);
@@ -33,12 +31,9 @@ namespace Passave
             mSingIn = FindViewById<Button>(Resource.Id.btn_SingIn);
             mPassword = FindViewById<EditText>(Resource.Id.txtPassword);
             mSingUp = FindViewById<Button>(Resource.Id.btn_SingUp);
-            mProgressBar = FindViewById<ProgressBar>(Resource.Id.progressBar1);
             mLinearLayout = FindViewById<LinearLayout>(Resource.Id.liner);
 
             Intent intent = Intent;
-            string action = intent.Action;
-            object type = intent.GetType();
             url = intent.GetStringExtra(Intent.ExtraText);
 
             mSingIn.SetOnClickListener(this);
@@ -61,12 +56,6 @@ namespace Passave
             intent.PutExtra(Intent.ExtraShortcutIconResource, iconResource);
             intent.SetAction("com.android.launcher.action.INSTALL_SHORTCUT");
             SendBroadcast(intent);
-        }
-
-        private void ActLikeARequest()
-        {
-            Thread.Sleep(3000);
-            RunOnUiThread(() => { mProgressBar.Visibility = ViewStates.Invisible; });
         }
         public void OnClick(View v)
         {
@@ -105,9 +94,6 @@ namespace Passave
         void signUpDialog_mOnSignUpComplete(object sender, User e)
         {
             data.InsertIntoUsers(e.Name, e.Password);
-            mProgressBar.Visibility = ViewStates.Visible;
-            Thread thread = new Thread(ActLikeARequest);
-            thread.Start();
         }
     }
 }
