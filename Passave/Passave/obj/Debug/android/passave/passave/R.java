@@ -28,8 +28,9 @@ public final class R {
         public static final int ic_settings_white_24dp=0x7f020007;
         public static final int icon=0x7f020008;
         public static final int progressbarstyle=0x7f020009;
-        public static final int search=0x7f02000a;
-        public static final int xs=0x7f02000b;
+        public static final int save=0x7f02000a;
+        public static final int search=0x7f02000b;
+        public static final int xs=0x7f02000c;
     }
     public static final class id {
         public static final int About=0x7f09002f;
@@ -69,6 +70,7 @@ public final class R {
         public static final int liner=0x7f090024;
         public static final int llContainer=0x7f09001f;
         public static final int myListView=0x7f090020;
+        public static final int save=0x7f090032;
         public static final int search=0x7f09002a;
         public static final int settings=0x7f09002c;
         public static final int textLogin=0x7f09001b;

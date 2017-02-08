@@ -110,10 +110,13 @@ namespace Passave
 			public const int ProgressBarStyle = 2130837513;
 			
 			// aapt resource value: 0x7f02000a
-			public const int search = 2130837514;
+			public const int Save = 2130837514;
 			
 			// aapt resource value: 0x7f02000b
-			public const int xs = 2130837515;
+			public const int search = 2130837515;
+			
+			// aapt resource value: 0x7f02000c
+			public const int xs = 2130837516;
 			
 			static Drawable()
 			{
@@ -238,6 +241,9 @@ namespace Passave
 			
 			// aapt resource value: 0x7f090020
 			public const int myListView = 2131296288;
+			
+			// aapt resource value: 0x7f090032
+			public const int save = 2131296306;
 			
 			// aapt resource value: 0x7f09002a
 			public const int search = 2131296298;

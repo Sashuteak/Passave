@@ -27,4 +27,9 @@
                     android:title="Выйти"/>
         </menu>
   </item>
+  <item android:id="@+id/save"
+        android:title="save"
+        android:showAsAction="always"
+        android:icon="@drawable/Save"/>
+
 </menu>

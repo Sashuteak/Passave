@@ -406,5 +406,6 @@ D:\Xamarin\GitRepository\Passave\Passave\Passave\obj\Debug\android\assets\Mono.A
 D:\Xamarin\GitRepository\Passave\Passave\Passave\obj\Debug\Passave.dll.mdb
 D:\Sashuteak\Passave\Passave\Passave\Passave\bin\Debug\Mono.Android.Export.dll.mdb
 D:\Sashuteak\Passave\Passave\Passave\Passave\obj\Debug\android\assets\Mono.Android.Export.dll.mdb
+D:\Sashuteak\Passave\Passave\Passave\Passave\obj\Debug\res\drawable\save.png
 D:\Sashuteak\Passave\Passave\Passave\Passave\obj\Debug\Passave.dll.mdb
 D:\Sashuteak\Passave\Passave\Passave\Passave\bin\Debug\Passave.dll.mdb

@@ -9,6 +9,8 @@ using System.Linq;
 using Passave.DataBaseWork;
 using Passave.Activitys;
 using Newtonsoft.Json;
+using System;
+using Android.Content.PM;
 
 namespace Passave
 {
@@ -157,6 +159,36 @@ namespace Passave
         {
             switch (item.ItemId)
             {
+                case Resource.Id.save:
+                    bool exist = false;
+                    var searchQuery = "com.google.android.apps.docs";
+                    var flag = PackageInfoFlags.Activities;
+                    var apps = PackageManager.GetInstalledApplications(flag);
+                    foreach (var app in apps)
+                    {
+                        if (app.PackageName == searchQuery)
+                        {
+                            var uri = Android.Net.Uri.Parse(@"https://drive.google.com");
+                            Intent intent = new Intent(Intent.ActionSend, uri);
+                            intent.SetType("text/plain");
+                            string res = "Your Data From Passave";
+                            foreach (var inf in myInfo)
+                            {
+                                res += String.Format($"\n\n{inf.Name}\n{inf.Login}\n{inf.Password}\n{inf.Description}");
+                            }
+                            intent.PutExtra(Intent.ExtraText, res);
+                            StartActivity(intent);
+                            exist = true;
+                            break;
+                        }
+                    }
+                    if(!exist)
+                    {
+                        var uri = Android.Net.Uri.Parse(@"https://drive.google.com");
+                        Intent intent = new Intent(Intent.ActionView, uri);
+                        StartActivity(intent);
+                    }
+                    return true;
                 case Resource.Id.search:
                     mSearch.Visibility = ViewStates.Visible;
                     if (mIsAnimating)
